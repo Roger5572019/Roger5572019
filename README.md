@@ -1,6 +1,16 @@
 ## Hi there 👋
 
 - 💻 I’m currently learning Computer science 😄
+
+### 🎯 SKILLS 
+- SQL
+- C
+- C#
+- C++
+- REACT
+- JAVASCRIPT
+- GIT
+  
 <!--
 **Roger5572019/Roger5572019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
